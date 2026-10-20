@@ -1,4 +1,4 @@
-# Vibe Fit
+# Vibe Fit · Vibe Board
 
 **App para personal trainer e nutricionista.** Treino, nutrição, hábitos e
 evolução do aluno num só lugar, com visão compartilhada entre os profissionais.
@@ -20,6 +20,15 @@ O aluno treina, registra e vê a própria evolução.
 - **Nutricionista** — plano alimentar, catálogo de alimentos e anamnese.
 - **Profissional híbrido** — treino e nutrição na mesma conta.
 - **Aluno** — treino do dia, hábitos, fotos de evolução e chat com o profissional.
+
+### Vibe Board
+
+**O quadro da sua empresa.** Leads, calls, vendas e caixa num lugar só: mostra
+onde a venda trava, o que fazer hoje e quanto sobra para você. Para quem vende
+serviço por funil, de personal a outros nichos. 7 dias grátis.
+
+[Site](https://appvibeboard.com) ·
+[Central de ajuda](https://docs.appvibeboard.com)
 
 ### Contato
 
